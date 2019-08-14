@@ -1,0 +1,18 @@
+body {
+  background-image: url(../img/bricks1.jpg)
+}
+
+.main_block {
+  padding: 0px;
+  margin-top: 10%;
+  margin-left: 10%;
+  margin-right: 10%;
+  text-align: center;
+  color: rgb(20, 20, 20);
+  background: rgb(255, 255, 32);
+}
+
+a {
+  color: rgb(0, 0, 223);
+  text-decoration: none;
+}
