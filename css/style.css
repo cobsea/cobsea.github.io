@@ -1,18 +1,34 @@
-body {
-  background-image: url(../img/bricks1.jpg)
-}
-
-.main_block {
-  padding: 5px;
-  margin-top: 10%;
-  margin-left: 10%;
-  margin-right: 10%;
-  text-align: center;
-  color: rgb(20, 20, 20);
-  background: rgb(255, 255, 32);
-}
-
 a {
   color: rgb(0, 0, 223);
   text-decoration: none;
+}
+
+.main_block {
+  font: bold 17px sans-serif;
+  padding: 5px;
+  margin-top: 10%;
+  margin-left: 20%;
+  margin-right: 10%;
+
+  text-align: left;
+  color: rgb(20, 20, 20);
+}
+
+.message {
+  margin-left: 10px;
+  color: inherit;
+  position: relative;
+  float: left;
+}
+
+.table {
+  color: inherit;
+  font: bold 19px sans-serif;
+  position: relative;
+  float: left;
+}
+
+.photo {
+  position: relative;
+  float: left;
 }
